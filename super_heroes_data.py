@@ -912,3 +912,6 @@ superheroes = [
         "is_villain": True
     },
 ]
+
+
+# print(len (superheroes))
